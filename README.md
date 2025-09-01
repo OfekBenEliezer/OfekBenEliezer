@@ -14,7 +14,7 @@
 - 💼 Sr. Cloud Solution Architect at **Direct Experts (DEX)**
 - 🎓 Delivering **Azure & Microsoft 365 workshops and courses** worldwide
 - ☁️ Specializing in **Azure Landing Zones, FinOps, AI Foundry, Logic Apps**
-- 🤝 Founder of **Cloud & AI Israel** – community with **650+ members**
+- 🤝 Founder of **Cloud & AI Israel** – community with **920+ members**
 - 🏆 Azure certifications trainer – thousands of professionals trained globally
 - 🌟 Passionate about spreading **Microsoft Cloud innovation**  
 
@@ -46,6 +46,20 @@
 </p>
 
 ---
+---
+
+## 🌐 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/OfekBenEliezer/azure-ai-foundry-chat-app"><img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=OfekBenEliezer&repo=azure-ai-foundry-chat-app&hide_border=true&theme=transparent"></a>
+  <a href="https://github.com/OfekBenEliezer/mcp-on-azure"><img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=OfekBenEliezer&repo=mcp-on-azure&hide_border=true&theme=transparent"></a>
+  <a href="https://github.com/OfekBenEliezer/captain-azure-logicapps-weather-mailer"><img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=OfekBenEliezer&repo=captain-azure-logicapps-weather-mailer&hide_border=true&theme=transparent"></a>
+</p>
+
+- 🚀 [**Azure AI Foundry Chat App**](https://github.com/OfekBenEliezer/azure-ai-foundry-chat-app) – Secure & scalable AI web app powered by Azure OpenAI and App Service  
+- 🛡️ [**MCP on Azure**](https://github.com/OfekBenEliezer/mcp-on-azure) – Model Context Protocol with Azure services for deterministic enterprise flows  
+- ☁️ [**Captain Azure LogicApps Weather Mailer**](https://github.com/OfekBenEliezer/captain-azure-logicapps-weather-mailer) – Azure Logic App that fetches weather data via API and automatically sends results by email
+
 
 ## 🌐 Featured Projects
 - 🚀 [**Azure AI Foundry Chat App**](https://github.com/OfekBenEliezer/azure-ai-foundry-chat-app) – Secure & scalable AI web app with Azure OpenAI  

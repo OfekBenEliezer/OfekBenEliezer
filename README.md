@@ -32,39 +32,11 @@
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OfekBenEliezer&show_icons=true&theme=azure&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OfekBenEliezer&layout=compact&theme=azure&hide_border=true" height="165"/>
-</p>
-
----
-
-## 🔥 Streaks & Activity
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OfekBenEliezer&theme=azure&hide_border=true"/>
-</p>
-
----
----
-
 ## 🌐 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/OfekBenEliezer/azure-ai-foundry-chat-app"><img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=OfekBenEliezer&repo=azure-ai-foundry-chat-app&hide_border=true&theme=transparent"></a>
-  <a href="https://github.com/OfekBenEliezer/mcp-on-azure"><img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=OfekBenEliezer&repo=mcp-on-azure&hide_border=true&theme=transparent"></a>
-  <a href="https://github.com/OfekBenEliezer/captain-azure-logicapps-weather-mailer"><img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=OfekBenEliezer&repo=captain-azure-logicapps-weather-mailer&hide_border=true&theme=transparent"></a>
-</p>
-
-- 🚀 [**Azure AI Foundry Chat App**](https://github.com/OfekBenEliezer/azure-ai-foundry-chat-app) – Secure & scalable AI web app powered by Azure OpenAI and App Service  
-- 🛡️ [**MCP on Azure**](https://github.com/OfekBenEliezer/mcp-on-azure) – Model Context Protocol with Azure services for deterministic enterprise flows  
+- 🚀 [**Azure AI Foundry Chat App**](https://github.com/OfekBenEliezer/azure-ai-foundry-chat-app) – Secure & scalable AI web app with Azure OpenAI
 - ☁️ [**Captain Azure LogicApps Weather Mailer**](https://github.com/OfekBenEliezer/captain-azure-logicapps-weather-mailer) – Azure Logic App that fetches weather data via API and automatically sends results by email
-
-
-## 🌐 Featured Projects
-- 🚀 [**Azure AI Foundry Chat App**](https://github.com/OfekBenEliezer/azure-ai-foundry-chat-app) – Secure & scalable AI web app with Azure OpenAI  
+- 🛡️ [**MCP on Azure**](https://github.com/OfekBenEliezer/mcp-on-azure) – Model Context Protocol with Azure services for deterministic enterprise flows  
 - ⚡ [**Captain Azure Blog Source**](https://github.com/OfekBenEliezer) – Blog content, workshops, and cloud solutions  
-- 🛡️ [MCP & Open AI in Azure](https://github.com/OfekBenEliezer/mcp-on-azure)
 
 ---
 

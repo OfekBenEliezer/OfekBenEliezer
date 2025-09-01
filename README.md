@@ -1,16 +1,73 @@
-## Hi there 👋
+<!-- Banner -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:001E3C&height=250&section=header&text=Ofek%20Ben%20Eliezer%20⚓%20Captain%20Azure&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
 
-<!--
-**OfekBenEliezer/OfekBenEliezer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Ofek Ben Eliezer
 
-Here are some ideas to get you started:
+🌍 **Sr. Cloud Solution Architect | Microsoft Certified Trainer (MCT) | Azure & AI Expert**  
+⚡ Founder of **Captain Azure Blog**  
+🎤 Global Speaker on **Cloud, AI, and Security**  
+📺 [YouTube Channel](https://www.youtube.com/@ofekbeneliezer-MCT) | 🌐 [Captain Azure Blog](https://cloud-ai-israel-captainazure.azurewebsites.net)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 💼 Sr. Cloud Solution Architect at **Direct Experts (DEX)**
+- 🎓 Delivering **Azure & Microsoft 365 workshops and courses** worldwide
+- ☁️ Specializing in **Azure Landing Zones, FinOps, AI Foundry, Logic Apps**
+- 🤝 Founder of **Cloud & AI Israel** – community with **650+ members**
+- 🏆 Azure certifications trainer – thousands of professionals trained globally
+- 🌟 Passionate about spreading **Microsoft Cloud innovation**  
+
+---
+
+## 🛠️ Technologies & Tools
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Defender](https://img.shields.io/badge/Microsoft%20Defender-0067B8?style=for-the-badge&logo=microsoft&logoColor=white)
+![Purview](https://img.shields.io/badge/Microsoft%20Purview-008AD7?style=for-the-badge&logo=microsoft&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OfekBenEliezer&show_icons=true&theme=azure&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OfekBenEliezer&layout=compact&theme=azure&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🔥 Streaks & Activity
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OfekBenEliezer&theme=azure&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Featured Projects
+- 🚀 [**Azure AI Foundry Chat App**](https://github.com/OfekBenEliezer/azure-ai-foundry-chat-app) – Secure & scalable AI web app with Azure OpenAI  
+- ⚡ [**Captain Azure Blog Source**](https://github.com/OfekBenEliezer) – Blog content, workshops, and cloud solutions  
+- 🛡️ Security & Compliance demos with **Defender, Purview, Intune**  
+
+---
+
+## 🏆 Achievements & Certifications
+![MCT](https://img.shields.io/badge/Microsoft%20Certified%20Trainer-MCT-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Azure Expert](https://img.shields.io/badge/Azure%20Expert-Cloud%20Architect-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
+![GitHub Foundations](https://img.shields.io/badge/GitHub%20Certified-Foundations-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Security](https://img.shields.io/badge/GitHub%20Advanced%20Security-Certified-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🌍 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/ofekbeneliezer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://cloud-ai-israel-captainazure.azurewebsites.net"><img src="https://img.shields.io/badge/Blog-Captain%20Azure-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@ofekbeneliezer-MCT"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"/></a>
+</p>
+
+<!-- Footer -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:001E3C,100:0078D4&height=150&section=footer)

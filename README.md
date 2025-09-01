@@ -89,11 +89,6 @@ articles, workshops, and cloud solution demos.
 ## 📈 GitHub Insights
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=OfekBenEliezer&show_icons=true&hide_border=true&theme=transparent" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OfekBenEliezer&layout=compact&hide_border=true&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OfekBenEliezer&theme=transparent&hide_border=true" />
 </p>
 
 ---
@@ -103,11 +98,6 @@ articles, workshops, and cloud solution demos.
   <a href="https://www.linkedin.com/in/ofekbeneliezer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://azcaptain.azurewebsites.net"><img src="https://img.shields.io/badge/Blog-Captain%20Azure-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white"/></a>
   <a href="https://www.youtube.com/@ofekbeneliezer"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=OfekBenEliezer&label=Profile%20views&color=0e75b6&style=flat">
-  <img alt="Followers" src="https://img.shields.io/github/followers/OfekBenEliezer?style=flat">
 </p>
 
 <!-- Footer -->

@@ -6,7 +6,7 @@
 🌍 **Sr. Cloud Solution Architect | Microsoft Certified Trainer (MCT) | Azure & AI Expert**  
 ⚡ Founder of **Captain Azure Blog**  
 🎤 Global Speaker on **Cloud, AI, and Security**  
-📺 [YouTube Channel](https://www.youtube.com/@ofekbeneliezer-MCT) | 🌐 [Captain Azure Blog](https://cloud-ai-israel-captainazure.azurewebsites.net)
+📺 [YouTube Channel](https://www.youtube.com/@ofekbeneliezer) | 🌐 [Captain Azure Blog](https://azcaptain.azurewebsites.net)
 
 ---
 
@@ -50,7 +50,7 @@
 ## 🌐 Featured Projects
 - 🚀 [**Azure AI Foundry Chat App**](https://github.com/OfekBenEliezer/azure-ai-foundry-chat-app) – Secure & scalable AI web app with Azure OpenAI  
 - ⚡ [**Captain Azure Blog Source**](https://github.com/OfekBenEliezer) – Blog content, workshops, and cloud solutions  
-- 🛡️ Security & Compliance demos with **Defender, Purview, Intune**  
+- 🛡️ [MCP & Open AI in Azure](https://github.com/OfekBenEliezer/mcp-on-azure)
 
 ---
 
@@ -65,8 +65,8 @@
 ## 🌍 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/ofekbeneliezer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://cloud-ai-israel-captainazure.azurewebsites.net"><img src="https://img.shields.io/badge/Blog-Captain%20Azure-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@ofekbeneliezer-MCT"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://azcaptain.azurewebsites.net"><img src="https://img.shields.io/badge/Blog-Captain%20Azure-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@ofekbeneliezer"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
 <!-- Footer -->

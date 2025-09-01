@@ -1,5 +1,11 @@
 <!-- Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:001E3C&height=250&section=header&text=Ofek%20Ben%20Eliezer%20⚓%20Captain%20Azure&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:001E3C&height=240&section=header&text=Ofek%20Ben%20Eliezer%20⚓%20Captain%20Azure&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36)
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&center=true&vCenter=true&width=900&lines=Sr.+Cloud+Solution+Architect;Microsoft+Certified+Trainer+(MCT);Azure+%26+AI+Expert;Global+Speaker+on+Cloud+%26+Security;Founder+-+Cloud+%26+AI+Israel+Community" />
+</p>
+
+---
 
 # 👋 Hi, I'm Ofek Ben Eliezer
 
@@ -21,30 +27,74 @@
 ---
 
 ## 🛠️ Technologies & Tools
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Defender](https://img.shields.io/badge/Microsoft%20Defender-0067B8?style=for-the-badge&logo=microsoft&logoColor=white)
-![Purview](https://img.shields.io/badge/Microsoft%20Purview-008AD7?style=for-the-badge&logo=microsoft&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,github,docker,kubernetes,terraform,vscode,linux,python,js" />
+</p>
 
 ---
 
 ## 🌐 Featured Projects
-- 🚀 [**Azure AI Foundry Chat App**](https://github.com/OfekBenEliezer/azure-ai-foundry-chat-app) – Secure & scalable AI web app with Azure OpenAI
-- ☁️ [**Captain Azure LogicApps Weather Mailer**](https://github.com/OfekBenEliezer/captain-azure-logicapps-weather-mailer) – Azure Logic App that fetches weather data via API and automatically sends results by email
-- 🛡️ [**MCP on Azure**](https://github.com/OfekBenEliezer/mcp-on-azure) – Model Context Protocol with Azure services for deterministic enterprise flows  
-- ⚡ [**Captain Azure Blog Source**](https://github.com/OfekBenEliezer) – Blog content, workshops, and cloud solutions  
+
+<table>
+<tr>
+<td width="50%" align="center">
+  
+### 🚀 [Azure AI Foundry Chat App](https://github.com/OfekBenEliezer/azure-ai-foundry-chat-app)  
+Secure & scalable **AI web app** powered by **Azure OpenAI** and App Service.  
+🛠️ Azure OpenAI · App Service · Key Vault · Networking  
+
+</td>
+<td width="50%" align="center">
+
+### ☁️ [LogicApps Weather Mailer](https://github.com/OfekBenEliezer/captain-azure-logicapps-weather-mailer)  
+**Azure Logic App** that fetches weather data via API  
+and sends results via automated email.  
+🛠️ Logic Apps · HTTP Trigger · API Integration · Outlook  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+### 🛡️ [MCP on Azure](https://github.com/OfekBenEliezer/mcp-on-azure)  
+Implementation of the **Model Context Protocol (MCP)**  
+running on Azure services for deterministic enterprise flows.  
+🛠️ MCP · Azure Functions · App Service · Security  
+
+</td>
+<td width="50%" align="center">
+
+### ⚡ [Captain Azure Blog Source](https://github.com/OfekBenEliezer)  
+Repository powering the **Captain Azure Blog**:  
+articles, workshops, and cloud solution demos.  
+🛠️ HTML · CSS · Azure Static Web Apps  
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🏆 Achievements & Certifications
-![MCT](https://img.shields.io/badge/Microsoft%20Certified%20Trainer-MCT-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Azure Expert](https://img.shields.io/badge/Azure%20Expert-Cloud%20Architect-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
-![GitHub Foundations](https://img.shields.io/badge/GitHub%20Certified-Foundations-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Security](https://img.shields.io/badge/GitHub%20Advanced%20Security-Certified-181717?style=for-the-badge&logo=github&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft%20Certified%20Trainer-MCT-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20Expert-Cloud%20Architect-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Certified-Foundations-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Advanced%20Security-Certified-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+## 📈 GitHub Insights
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=OfekBenEliezer&show_icons=true&hide_border=true&theme=transparent" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OfekBenEliezer&layout=compact&hide_border=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OfekBenEliezer&theme=transparent&hide_border=true" />
+</p>
 
 ---
 
@@ -53,6 +103,11 @@
   <a href="https://www.linkedin.com/in/ofekbeneliezer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://azcaptain.azurewebsites.net"><img src="https://img.shields.io/badge/Blog-Captain%20Azure-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white"/></a>
   <a href="https://www.youtube.com/@ofekbeneliezer"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=OfekBenEliezer&label=Profile%20views&color=0e75b6&style=flat">
+  <img alt="Followers" src="https://img.shields.io/github/followers/OfekBenEliezer?style=flat">
 </p>
 
 <!-- Footer -->

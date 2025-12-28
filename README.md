@@ -88,13 +88,6 @@ articles, workshops, and cloud solution demos.
 
 ---
 
-## 📈 GitHub Insights
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OfekBenEliezer&layout=compact&hide_border=true&theme=transparent&cache_seconds=1800" />
-</p>
-
----
-
 ## 🌍 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/ofekbeneliezer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>

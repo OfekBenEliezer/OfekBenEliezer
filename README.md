@@ -9,7 +9,7 @@
 
 # 👋 Hi, I'm Ofek Ben Eliezer
 
-🌍 **Sr. Cloud Solution Architect | Microsoft Certified Trainer (MCT) | Azure & AI Expert**  
+🌍 **Sr. Cloud Solution Architect | Microsoft Azure Architecture MVP | Microsoft Certified Trainer (MCT) | Azure & AI Expert**  
 ⚡ Founder of **Captain Azure Blog**  
 🎤 Global Speaker on **Cloud, AI, and Security**  
 📺 [YouTube Channel](https://www.youtube.com/@ofekbeneliezer) | 🌐 [Captain Azure Blog](https://azcaptain.azurewebsites.net)

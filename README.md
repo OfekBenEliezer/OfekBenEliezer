@@ -2,7 +2,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:001E3C&height=240&section=header&text=Ofek%20Ben%20Eliezer%20⚓%20Captain%20Azure&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&center=true&vCenter=true&width=900&lines=Sr.+Cloud+Solution+Architect;Microsoft+Certified+Trainer+(MCT);Azure+%26+AI+Expert;Global+Speaker+on+Cloud+%26+Security;Founder+-+Cloud+%26+AI+Israel+Community" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&center=true&vCenter=true&width=900&lines=Sr.+Cloud+Solution+Architect;Microsoft+MVP;Microsoft+Certified+Trainer+(MCT);Azure+%26+AI+Expert;Global+Speaker+on+Cloud+%26+Security;Founder+-+Cloud+%26+AI+Israel+Community" />
 </p>
 
 ---

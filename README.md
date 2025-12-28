@@ -82,7 +82,7 @@ articles, workshops, and cloud solution demos.
   <img src="https://img.shields.io/badge/Microsoft%20Most%20Valubale%20Proffesional-MVP-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft%20Certified%20Trainer-MCT-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure%20Expert-Cloud%20Architect-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Certified-Foundations-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20CoPilot-Certified-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub%20Advanced%20Security-Certified-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 

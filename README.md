@@ -17,10 +17,11 @@
 ---
 
 ## 🚀 About Me
-- 💼 Sr. Cloud Solution Architect at **Direct Experts (DEX)**
-- 🎓 Delivering **Azure & Microsoft 365 workshops and courses** worldwide
+- 💼 Sr. Cloud Solution Architect at **TeraSky**
+- 🎓 Delivering **Azure & GitHub workshops and courses** worldwide
 - ☁️ Specializing in **Azure Landing Zones, FinOps, AI Foundry, Logic Apps**
-- 🤝 Founder of **Cloud & AI Israel** – community with **920+ members**
+- 🤝 Founder of **Cloud & AI Israel** – community with **960+ members**
+- 🌟 Microsoft Azure Architecture MVP
 - 🏆 Azure certifications trainer – thousands of professionals trained globally
 - 🌟 Passionate about spreading **Microsoft Cloud innovation**  
 

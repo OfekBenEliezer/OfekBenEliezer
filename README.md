@@ -79,6 +79,7 @@ articles, workshops, and cloud solution demos.
 
 ## 🏆 Achievements & Certifications
 <p align="center">
+  <img src="https://img.shields.io/badge/Microsoft%MVP%-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft%20Certified%20Trainer-MCT-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure%20Expert-Cloud%20Architect-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub%20Certified-Foundations-181717?style=for-the-badge&logo=github&logoColor=white"/>
